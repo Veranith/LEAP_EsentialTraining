@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsentialTraining", "EsentialTraining\EsentialTraining.csproj", "{4CDFC52A-A6BC-4364-88E8-80A477BCD928}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTraining", "EssentialTraining\EssentialTraining.csproj", "{4CDFC52A-A6BC-4364-88E8-80A477BCD928}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTrainingTests", "EssentialTrainingTests\EssentialTrainingTests.csproj", "{A55ECFBC-9B21-4343-959B-6847A85B3244}"
 EndProject
