@@ -44,6 +44,10 @@ namespace EssentialTrainingApp
             {
                 Console.WriteLine("An unknown error occured " + ex.Message);
             }
+            finally
+            {
+                Console.WriteLine("The finally runs all the time.");
+            }
         }
 
         private static int CrazyMathProblem()
