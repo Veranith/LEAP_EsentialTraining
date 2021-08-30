@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTraining", "Essent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTrainingTests", "EssentialTrainingTests\EssentialTrainingTests.csproj", "{A55ECFBC-9B21-4343-959B-6847A85B3244}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTrainingApp", "EssentialTrainingApp\EssentialTrainingApp.csproj", "{84F1825B-24EB-4B73-9894-62D6ECE2DB16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A55ECFBC-9B21-4343-959B-6847A85B3244}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A55ECFBC-9B21-4343-959B-6847A85B3244}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A55ECFBC-9B21-4343-959B-6847A85B3244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F1825B-24EB-4B73-9894-62D6ECE2DB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F1825B-24EB-4B73-9894-62D6ECE2DB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F1825B-24EB-4B73-9894-62D6ECE2DB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F1825B-24EB-4B73-9894-62D6ECE2DB16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
